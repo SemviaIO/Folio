@@ -21,5 +21,4 @@ Found a bug or want a feature?
 
 ---
 
-Built by [Semvia](https://github.com/SemviaIO). This repository hosts release
-downloads only — the source lives in a private monorepo.
+Built by [Semvia](https://github.com/SemviaIO).
