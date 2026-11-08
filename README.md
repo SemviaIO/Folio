@@ -25,6 +25,10 @@ Every build is also on the
 [latest release](https://github.com/SemviaIO/Folio/releases/latest). Once
 installed, Folio keeps itself up to date.
 
+## Docs
+
+**[Read the docs →](https://semvia.io/docs)**
+
 ## Issues and feedback
 
 Found a bug or want a feature?
